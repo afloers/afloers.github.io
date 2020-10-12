@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schulze | Academic</title>
-    <link>/author/schulze/</link>
-      <atom:link href="/author/schulze/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/schulze/</link>
+      <atom:link href="https://afloers.github.io/author/schulze/index.xml" rel="self" type="application/rss+xml" />
     <description>Schulze</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 May 2018 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Schulze</title>
-      <link>/author/schulze/</link>
+      <link>https://afloers.github.io/author/schulze/</link>
     </image>
     
     <item>
       <title>Light Curves of Hydrogen-poor Superluminous Supernovae from the Palomar Transient Factory</title>
-      <link>/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</link>
+      <link>https://afloers.github.io/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</link>
       <pubDate>Thu, 31 May 2018 00:00:00 -0300</pubDate>
-      <guid>/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</guid>
+      <guid>https://afloers.github.io/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</guid>
       <description></description>
     </item>
     

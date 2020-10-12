@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. H. | Academic</title>
-    <link>/author/m.-h./</link>
-      <atom:link href="/author/m.-h./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/m.-h./</link>
+      <atom:link href="https://afloers.github.io/author/m.-h./index.xml" rel="self" type="application/rss+xml" />
     <description>M. H.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. H.</title>
-      <link>/author/m.-h./</link>
+      <link>https://afloers.github.io/author/m.-h./</link>
     </image>
     
     <item>
       <title>Nebular spectroscopy of SN 2014J: Detection of stable nickel in near-infrared spectra</title>
-      <link>/publication/nebular_spectroscopy_of_sn20214j/</link>
+      <link>https://afloers.github.io/publication/nebular_spectroscopy_of_sn20214j/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 -0300</pubDate>
-      <guid>/publication/nebular_spectroscopy_of_sn20214j/</guid>
+      <guid>https://afloers.github.io/publication/nebular_spectroscopy_of_sn20214j/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kerzendorf | Academic</title>
-    <link>/author/kerzendorf/</link>
-      <atom:link href="/author/kerzendorf/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/kerzendorf/</link>
+      <atom:link href="https://afloers.github.io/author/kerzendorf/index.xml" rel="self" type="application/rss+xml" />
     <description>Kerzendorf</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kerzendorf</title>
-      <link>/author/kerzendorf/</link>
+      <link>https://afloers.github.io/author/kerzendorf/</link>
     </image>
     
     <item>
       <title>Limits on stable iron in Type Ia supernovae from near-infrared spectroscopy </title>
-      <link>/publication/limits_on_stable_iron/</link>
+      <link>https://afloers.github.io/publication/limits_on_stable_iron/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0300</pubDate>
-      <guid>/publication/limits_on_stable_iron/</guid>
+      <guid>https://afloers.github.io/publication/limits_on_stable_iron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nebular spectroscopy of SN 2014J: Detection of stable nickel in near-infrared spectra</title>
-      <link>/publication/nebular_spectroscopy_of_sn20214j/</link>
+      <link>https://afloers.github.io/publication/nebular_spectroscopy_of_sn20214j/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 -0300</pubDate>
-      <guid>/publication/nebular_spectroscopy_of_sn20214j/</guid>
+      <guid>https://afloers.github.io/publication/nebular_spectroscopy_of_sn20214j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kilonova as the electromagnetic counterpart to a gravitational-wave source</title>
-      <link>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
+      <link>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
-      <guid>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
+      <guid>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
       <description></description>
     </item>
     

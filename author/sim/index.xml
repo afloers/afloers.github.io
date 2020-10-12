@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sim | Academic</title>
-    <link>/author/sim/</link>
-      <atom:link href="/author/sim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/sim/</link>
+      <atom:link href="https://afloers.github.io/author/sim/index.xml" rel="self" type="application/rss+xml" />
     <description>Sim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sim</title>
-      <link>/author/sim/</link>
+      <link>https://afloers.github.io/author/sim/</link>
     </image>
     
     <item>
       <title>SN2018kzr: A Rapidly Declining Transient from the Destruction of a White Dwarf</title>
-      <link>/publication/sn2018kzr_a_rapidly_declining_transient/</link>
+      <link>https://afloers.github.io/publication/sn2018kzr_a_rapidly_declining_transient/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 -0300</pubDate>
-      <guid>/publication/sn2018kzr_a_rapidly_declining_transient/</guid>
+      <guid>https://afloers.github.io/publication/sn2018kzr_a_rapidly_declining_transient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kilonova as the electromagnetic counterpart to a gravitational-wave source</title>
-      <link>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
+      <link>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
-      <guid>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
+      <guid>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NIR | Academic</title>
-    <link>/tag/nir/</link>
-      <atom:link href="/tag/nir/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/tag/nir/</link>
+      <atom:link href="https://afloers.github.io/tag/nir/index.xml" rel="self" type="application/rss+xml" />
     <description>NIR</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>NIR</title>
-      <link>/tag/nir/</link>
+      <link>https://afloers.github.io/tag/nir/</link>
     </image>
     
     <item>
       <title>Sub-Chandrasekhar progenitors favoured for Type Ia supernovae: evidence from late-time spectroscopy</title>
-      <link>/publication/sub_chandrasekhar_progenitors_favoured/</link>
+      <link>https://afloers.github.io/publication/sub_chandrasekhar_progenitors_favoured/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0300</pubDate>
-      <guid>/publication/sub_chandrasekhar_progenitors_favoured/</guid>
+      <guid>https://afloers.github.io/publication/sub_chandrasekhar_progenitors_favoured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limits on stable iron in Type Ia supernovae from near-infrared spectroscopy </title>
-      <link>/publication/limits_on_stable_iron/</link>
+      <link>https://afloers.github.io/publication/limits_on_stable_iron/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 -0300</pubDate>
-      <guid>/publication/limits_on_stable_iron/</guid>
+      <guid>https://afloers.github.io/publication/limits_on_stable_iron/</guid>
       <description></description>
     </item>
     

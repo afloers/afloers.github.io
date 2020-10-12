@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanlon | Academic</title>
-    <link>/author/hanlon/</link>
-      <atom:link href="/author/hanlon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/hanlon/</link>
+      <atom:link href="https://afloers.github.io/author/hanlon/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanlon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2017 00:00:00 -0300</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hanlon</title>
-      <link>/author/hanlon/</link>
+      <link>https://afloers.github.io/author/hanlon/</link>
     </image>
     
     <item>
       <title>A kilonova as the electromagnetic counterpart to a gravitational-wave source</title>
-      <link>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
+      <link>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
-      <guid>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
+      <guid>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
       <description></description>
     </item>
     

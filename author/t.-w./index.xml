@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T. -W. | Academic</title>
-    <link>/author/t.-w./</link>
-      <atom:link href="/author/t.-w./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://afloers.github.io/author/t.-w./</link>
+      <atom:link href="https://afloers.github.io/author/t.-w./index.xml" rel="self" type="application/rss+xml" />
     <description>T. -W.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://afloers.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>T. -W.</title>
-      <link>/author/t.-w./</link>
+      <link>https://afloers.github.io/author/t.-w./</link>
     </image>
     
     <item>
       <title>The rise and fall of an extraordinary Ca-rich transient. The discovery of ATLAS19dqr/SN 2019bkc </title>
-      <link>/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</link>
+      <link>https://afloers.github.io/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 -0300</pubDate>
-      <guid>/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</guid>
+      <guid>https://afloers.github.io/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The evolution of luminous red nova AT 2017jfs in NGC 4470</title>
-      <link>/publication/the_evolution_of_luminous_red_nova/</link>
+      <link>https://afloers.github.io/publication/the_evolution_of_luminous_red_nova/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 -0300</pubDate>
-      <guid>/publication/the_evolution_of_luminous_red_nova/</guid>
+      <guid>https://afloers.github.io/publication/the_evolution_of_luminous_red_nova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A kilonova as the electromagnetic counterpart to a gravitational-wave source</title>
-      <link>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
+      <link>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
       <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
-      <guid>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
+      <guid>https://afloers.github.io/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
       <description></description>
     </item>
     
