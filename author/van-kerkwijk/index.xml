@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Van Kerkwijk | Academic</title>
+    <link>/author/van-kerkwijk/</link>
+      <atom:link href="/author/van-kerkwijk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Van Kerkwijk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 May 2018 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Van Kerkwijk</title>
+      <link>/author/van-kerkwijk/</link>
+    </image>
+    
+    <item>
+      <title>Nebular spectroscopy of SN 2014J: Detection of stable nickel in near-infrared spectra</title>
+      <link>/publication/nebular_spectroscopy_of_sn20214j/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0300</pubDate>
+      <guid>/publication/nebular_spectroscopy_of_sn20214j/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

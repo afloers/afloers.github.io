@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholl | Academic</title>
+    <link>/author/nicholl/</link>
+      <atom:link href="/author/nicholl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2020 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicholl</title>
+      <link>/author/nicholl/</link>
+    </image>
+    
+    <item>
+      <title>The rise and fall of an extraordinary Ca-rich transient. The discovery of ATLAS19dqr/SN 2019bkc </title>
+      <link>/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 -0300</pubDate>
+      <guid>/publication/the_rise_and_fall_of_an_extraordinary_ca-rich_transient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SN2018kzr: A Rapidly Declining Transient from the Destruction of a White Dwarf</title>
+      <link>/publication/sn2018kzr_a_rapidly_declining_transient/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 -0300</pubDate>
+      <guid>/publication/sn2018kzr_a_rapidly_declining_transient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

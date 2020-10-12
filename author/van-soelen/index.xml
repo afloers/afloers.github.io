@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>van Soelen | Academic</title>
+    <link>/author/van-soelen/</link>
+      <atom:link href="/author/van-soelen/index.xml" rel="self" type="application/rss+xml" />
+    <description>van Soelen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2017 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>van Soelen</title>
+      <link>/author/van-soelen/</link>
+    </image>
+    
+    <item>
+      <title>A kilonova as the electromagnetic counterpart to a gravitational-wave source</title>
+      <link>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
+      <guid>/publication/a_kilonova_as_the_electromagnetic_counterpart_to_a_gravitational-wave_source/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

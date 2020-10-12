@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KU Collaboration | Academic</title>
+    <link>/author/ku-collaboration/</link>
+      <atom:link href="/author/ku-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>KU Collaboration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Oct 2017 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>KU Collaboration</title>
+      <link>/author/ku-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Multi-messenger Observations of a Binary Neutron Star Merger </title>
+      <link>/publication/multi-messenger_observations_of_a_binary_neutron_star_merger/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 -0300</pubDate>
+      <guid>/publication/multi-messenger_observations_of_a_binary_neutron_star_merger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

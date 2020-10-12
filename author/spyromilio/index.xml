@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spyromilio | Academic</title>
+    <link>/author/spyromilio/</link>
+      <atom:link href="/author/spyromilio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Spyromilio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Spyromilio</title>
+      <link>/author/spyromilio/</link>
+    </image>
+    
+    <item>
+      <title>Sub-Chandrasekhar progenitors favoured for Type Ia supernovae: evidence from late-time spectroscopy</title>
+      <link>/publication/sub_chandrasekhar_progenitors_favoured/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0300</pubDate>
+      <guid>/publication/sub_chandrasekhar_progenitors_favoured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SN 2012dn from early to late times: 09dc-like supernovae reassessed</title>
+      <link>/publication/sn2012dn_from_early_to_late_times/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 -0300</pubDate>
+      <guid>/publication/sn2012dn_from_early_to_late_times/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limits on stable iron in Type Ia supernovae from near-infrared spectroscopy </title>
+      <link>/publication/limits_on_stable_iron/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0300</pubDate>
+      <guid>/publication/limits_on_stable_iron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Curves of Hydrogen-poor Superluminous Supernovae from the Palomar Transient Factory</title>
+      <link>/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 -0300</pubDate>
+      <guid>/publication/light_curves_of_hydrogen-poor_superluminous_supernovae_from_the_palomar_transient_factory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nebular spectroscopy of SN 2014J: Detection of stable nickel in near-infrared spectra</title>
+      <link>/publication/nebular_spectroscopy_of_sn20214j/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0300</pubDate>
+      <guid>/publication/nebular_spectroscopy_of_sn20214j/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
