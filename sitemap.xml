@@ -3,17 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://afloers.github.io/demo/</loc>
+  </url>
+  
+  <url>
     <loc>https://afloers.github.io/publication-type/2/</loc>
     <lastmod>2020-02-26T00:00:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afloers.github.io/</loc>
+    <loc>https://afloers.github.io/author/anderson/</loc>
     <lastmod>2020-02-26T00:00:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://afloers.github.io/author/anderson/</loc>
+    <loc>https://afloers.github.io/</loc>
     <lastmod>2020-02-26T00:00:00-03:00</lastmod>
   </url>
   
@@ -1683,6 +1687,10 @@
   
   <url>
     <loc>https://afloers.github.io/author/and-ska-south-africa/meerkat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://afloers.github.io/author/andreas-flors/</loc>
   </url>
   
   <url>
