@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supernovae, Radiative Transfer, Cosmology | Andreas Flörs</title>
+    <link>https://afloers.github.io/tag/supernovae-radiative-transfer-cosmology/</link>
+      <atom:link href="https://afloers.github.io/tag/supernovae-radiative-transfer-cosmology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supernovae, Radiative Transfer, Cosmology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://afloers.github.io/images/icon_hu2c9b68534420deb3322e4f069a883eb8_6646_512x512_fill_lanczos_center_2.png</url>
+      <title>Supernovae, Radiative Transfer, Cosmology</title>
+      <link>https://afloers.github.io/tag/supernovae-radiative-transfer-cosmology/</link>
+    </image>
+    
+    <item>
+      <title>adH0cc</title>
+      <link>https://afloers.github.io/project/adh0cc/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://afloers.github.io/project/adh0cc/</guid>
+      <description>&lt;p&gt;An accurate measurement of the Hubble constant, H0, is critical for the determination of all other cosmological parameters. The most recent determinations have revealed a 4.4σ discrepancy between the local value of H0, based on the distance ladder approach with Cepheid stars and type Ia supernovae, and the determination from the cosmic microwave background. If this holds up, then ΛCDM is not the complete model of the Universe. A measurement of the local H0 which does not rely on the distance ladder represents a critical and independent check.&lt;/p&gt;
+&lt;p&gt;The method that is being applied here to get absolute distances is called the expanding-photosphere method. In principle, the method determines distances to type II-P SNe by comparing their photospheric angular size with the expansion velocity measured from spectral lines. However, since the photospheres of SNe II-P have low densities and are dominated by electron scattering, the photospheric flux is diluted relative to a Planck function at the best-fitting continuum colour temperature. Therefore the reliability of EPM distances depends on understanding how the dilution is related to physical properties of the SN atmosphere.
+Recently, new methods have been developed to model light curves and spectra, allowing for a new attempt to improve the determination of H0 using SNe II-P out to a redshift of 0.1. In particular, the Monte-Carlo radiative-transfer code TARDIS (Kerzendorf &amp;amp; Sim 2014) was extended to model spectra of type II-P SNe during their peak and early plateau phases. The new code was used to compute dilution factors (Vogl et al.2019) and it will be used to model the spectra of individual SNe. The final goal is to apply tailored EPM to a set of well observed type II-P SNe in the Hubble flow.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

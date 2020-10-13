@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Andreas Flörs</title>
+    <link>https://afloers.github.io/project/</link>
+      <atom:link href="https://afloers.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://afloers.github.io/images/icon_hu2c9b68534420deb3322e4f069a883eb8_6646_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://afloers.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>adH0cc</title>
+      <link>https://afloers.github.io/project/adh0cc/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://afloers.github.io/project/adh0cc/</guid>
+      <description>&lt;p&gt;An accurate measurement of the Hubble constant, H0, is critical for the determination of all other cosmological parameters. The most recent determinations have revealed a 4.4σ discrepancy between the local value of H0, based on the distance ladder approach with Cepheid stars and type Ia supernovae, and the determination from the cosmic microwave background. If this holds up, then ΛCDM is not the complete model of the Universe. A measurement of the local H0 which does not rely on the distance ladder represents a critical and independent check.&lt;/p&gt;
+&lt;p&gt;The method that is being applied here to get absolute distances is called the expanding-photosphere method. In principle, the method determines distances to type II-P SNe by comparing their photospheric angular size with the expansion velocity measured from spectral lines. However, since the photospheres of SNe II-P have low densities and are dominated by electron scattering, the photospheric flux is diluted relative to a Planck function at the best-fitting continuum colour temperature. Therefore the reliability of EPM distances depends on understanding how the dilution is related to physical properties of the SN atmosphere.
+Recently, new methods have been developed to model light curves and spectra, allowing for a new attempt to improve the determination of H0 using SNe II-P out to a redshift of 0.1. In particular, the Monte-Carlo radiative-transfer code TARDIS (Kerzendorf &amp;amp; Sim 2014) was extended to model spectra of type II-P SNe during their peak and early plateau phases. The new code was used to compute dilution factors (Vogl et al.2019) and it will be used to model the spectra of individual SNe. The final goal is to apply tailored EPM to a set of well observed type II-P SNe in the Hubble flow.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ENGRAVE</title>
+      <link>https://afloers.github.io/project/engrave/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://afloers.github.io/project/engrave/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.engrave-eso.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find ENGRAVE on the web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ENGRAVE is a international collaboration bringing together astronomers who use the ESO facilities to research gravitational wave events. It collects over 250 researchers, with both theoretical and observational expertise.&lt;/p&gt;
+&lt;p&gt;On 17th August 2017, a gravitational wave signal lasting for more than 50 seconds was discovered by the Ligo-Virgo Science Collaboration and just 1.7 seconds later a short burst of gamma rays was detected by the Fermi and INTEGRAL satellites. A new optical and infrared source was identified in the galaxy NGC 4993 that was unlike any other transient ever reported. This was AT2017gfo, a kilonova from the merger of two neutron stars, powered by the radioactive decay of r-processed heavy elements. The European Southern Observatory’s telescopes played a central role in the discovery and we have formed ENGRAVE to use ESO’s powerful resources during the ongoing LIGO-Virgo observing run in 2019-2020.&lt;/p&gt;
+&lt;p&gt;I joined the ENGRAVE collaboration after its founding in 2017. I contribute to the collaboration from within the Spectroscopy and Public Outreach groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ePESSTO&#43;</title>
+      <link>https://afloers.github.io/project/epessto&#43;/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://afloers.github.io/project/epessto&#43;/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.pessto.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find ePESSTO+ on the web&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PESSTO, the Public ESO Spectroscopic Survey of Transient Objects, and its extensions ePESSTO and ePESSTO+ have changed the way we carry out transient science at ESO. Virtually all of the ESO community working on supernovae (SNe) and unusual transients came together to run PESSTO, and in ePESSTO(+) we efficiently extended the science topics to include the gamma-ray burst (GRB) and nuclear transient communities. The ePESSTO breadth of science and strategy made it the most productive spectroscopic transient classifier in the last 2 years, keeping the ratio of transient discovery to classification almost steady, despite an increase in discovery rate of more than a factor of 3.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TARDIS-SN</title>
+      <link>https://afloers.github.io/project/tardis-sn/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://afloers.github.io/project/tardis-sn/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/tardis-sn/tardis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find TARDIS-SN on GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TARDIS is an open-source Monte Carlo radiative-transfer spectral synthesis code for 1D models of supernova ejecta. TARDIS is being used in modeling the observations of exploding stars and other astrophysical transients. These include but are not limited to exploding white dwarf stars, massive stars undergoing a core-collapse, and coalescing neutron stars.&lt;/p&gt;
+&lt;p&gt;It is developed and maintained by a multi-disciplinary team including software engineers, computer scientists, statisticians, and astrophysicists. TARDIS uses standard open-source community software development workflow relying on GitHub for development, testing, and continuous integration.&lt;/p&gt;
+&lt;p&gt;I joined the TARDIS collaboration in March 2019 to work on its atomic database Carsus. For the Carsus project I mentored Google Summer of Code students both in 2019 and 2020. I became head of the TARDIS code comparison team during the Second Radiative Transfer Code Comparison Workshop taking place in Garching/Germany in August 2019. In August 2020, I joined the TARDIS-core developer team, taking over the project&amp;rsquo;s GitHub representation with duties focusing on keeping track of Pull Requests and Issues. Finally, in August 2020, TARDIS-SN was accepted as a fiscally sponsored project by NumFocus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
